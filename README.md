@@ -1,1 +1,1 @@
-I'm trying to learn Python. Leave me alone.
+I'm trying to learn Python. Please leave me alone.
