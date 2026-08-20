@@ -15,6 +15,7 @@ a = "Nga"
 print(a) #Prints string idk y.
 
 b = str(3) #b will be '3' (as a string ig).
+
 c = int(3) #c will be 3.
 d = float(3) #d will be 3.0
 
@@ -53,3 +54,4 @@ e = f = g = "Kill yourself"
 print(e)
 print(f)
 print(g)
+
