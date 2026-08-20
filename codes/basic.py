@@ -30,3 +30,15 @@ comment
 """
 
 print("Error.")
+
+#Print basics
+
+x = "Kill"
+y = "Yourself"
+z = "Nga"
+a = 10
+
+print(x, y, z)
+print(x + y + z)
+
+# print(a + z) #WILL THROW ERROR
