@@ -18,3 +18,13 @@ def myfunc():
 myfunc()
 
 print("I'm a " + y)
+
+#Creating a global variable inside a function
+
+def myfunc():
+    global a
+    a = "Kill yourself"
+    
+myfunc()
+
+print("You should " + a)
