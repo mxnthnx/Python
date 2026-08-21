@@ -14,3 +14,6 @@ print("bullet" in x)
 
 if "skull" in x:
     print("Yeah, he's gonna make it all worth it.")
+    
+if "kill" not in x:
+    print("Kill is not in the sentence")
