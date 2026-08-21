@@ -8,12 +8,3 @@ print(a[2])
 
 #"2" is the position of the character
 
-x = "next piercing is gonna be a bullet through my skull"
-
-print("bullet" in x)
-
-if "skull" in x:
-    print("Yeah, he's gonna make it all worth it.")
-    
-if "kill" not in x:
-    print("Kill is not in the sentence")
